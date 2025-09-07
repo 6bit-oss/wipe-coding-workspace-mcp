@@ -1,0 +1,25 @@
+﻿{
+  "mcpServers": {
+    "taskmaster": {
+      "command": "node",
+      "args": ["C:\\Users\\Thunderobot\\AppData\\Roaming\\Cursor\\User\\wipe-coding-workspace\\mcp-servers\\taskmaster\\dist\\index.js"],
+      "env": {
+        "NODE_ENV": "production"
+      }
+    },
+    "contex7": {
+      "command": "node",
+      "args": ["C:\\Users\\Thunderobot\\AppData\\Roaming\\Cursor\\User\\wipe-coding-workspace\\mcp-servers\\contex7\\dist\\index.js"],
+      "env": {
+        "NODE_ENV": "production"
+      }
+    },
+    "autodoc": {
+      "command": "node",
+      "args": ["C:\\Users\\Thunderobot\\AppData\\Roaming\\Cursor\\User\\wipe-coding-workspace\\mcp-servers\\autodoc\\dist\\index.js"],
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  }
+}
